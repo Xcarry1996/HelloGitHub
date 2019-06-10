@@ -13,10 +13,11 @@ If you dare, comment like this:
 Jack is not the best coder.
 Jack is a lier.
 Jack-Fxxxxx.
-...
 ```
 
 ## Usage
+
+If you are not familiar with [MARKDOWN]d(https://help.github.com/en/articles/basic-writing-and-formatting-syntax), click it and LEARN BY YOURSELF.
 
 ```python
 import Jack
