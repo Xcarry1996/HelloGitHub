@@ -1,4 +1,5 @@
 # hellocoder
+My name is Jack and
 here is my secret garden for self-entertainment, including practicing my not-too-bad Chinglish.
 
 ## Jackion
