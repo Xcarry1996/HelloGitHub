@@ -17,7 +17,7 @@ Jack-Fxxxxx.
 
 ## Usage
 
-If you are not familiar with [MARKDOWN]d(https://help.github.com/en/articles/basic-writing-and-formatting-syntax), click it and LEARN BY YOURSELF.
+If you are not familiar with [MARKDOWN](https://help.github.com/en/articles/basic-writing-and-formatting-syntax), click it and LEARN BY YOURSELF.
 
 ```python
 import Jack
