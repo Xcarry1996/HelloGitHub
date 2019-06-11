@@ -1,7 +1,7 @@
 # Hellocoder
 
 My name is Jack and
-here is my secret garden for self-entertainment, including practicing my not-too-bad Chinglish.
+here is my secret garden for self-entertainment, and practicing my not-too-bad Chinglish.
 
 ## Jackion
 
