@@ -1,13 +1,13 @@
-# Hellocoder
+# HelloGitHub
 
 My name is Jack and
-here is my secret garden for self-entertainment, and practicing my not-too-bad Chinglish.
+here is a practical presentation of MAKRDOWN.
 
 ## Jackion
 
 Click into the Jack'hub and follow Jack Cheng to attract Jack's attention.
 
-If you dare, comment like this:
+If you like, comment like this:
 
 ```bash
 Jack is not the best coder.
